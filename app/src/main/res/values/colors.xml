@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="azulalke">#63B8FC</color>
+    <color name="azulalkeosc">#1a87dd</color>
+    <color name="grisAlke">#A6AFBA</color>
+    <color name="verdeAlke">#72DB31</color>
+    <color name="grisAlkeclaro">#F3F4F5</color>
+    <color name="grisAlkeosc">#FF575E71</color>
+
+</resources>
+
+
